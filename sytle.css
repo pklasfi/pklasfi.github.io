@@ -1,0 +1,26 @@
+input {
+    width: 100%;
+    margin: 2px;
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+button {
+    border: none;
+    outline: none;
+    padding: 8px;
+    width: 252px;
+    color:#fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: #ffa12c;
+}
+
+button:hover{
+    background:red;
+}
